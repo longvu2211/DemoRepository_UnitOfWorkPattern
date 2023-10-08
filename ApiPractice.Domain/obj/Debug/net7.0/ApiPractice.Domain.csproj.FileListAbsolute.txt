@@ -1,0 +1,11 @@
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\bin\Debug\net7.0\ApiPractice.Domain.deps.json
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\bin\Debug\net7.0\ApiPractice.Domain.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\bin\Debug\net7.0\ApiPractice.Domain.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ApiPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ApiPractice.Domain.AssemblyInfoInputs.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ApiPractice.Domain.AssemblyInfo.cs
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ApiPractice.Domain.csproj.CoreCompileInputs.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ApiPractice.Domain.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\refint\ApiPractice.Domain.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ApiPractice.Domain.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Domain\obj\Debug\net7.0\ref\ApiPractice.Domain.dll

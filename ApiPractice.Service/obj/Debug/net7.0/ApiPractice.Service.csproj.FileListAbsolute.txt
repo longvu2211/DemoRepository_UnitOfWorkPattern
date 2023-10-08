@@ -1,0 +1,17 @@
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Service.deps.json
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Service.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Service.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Domain.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Infrastructure.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Infrastructure.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\bin\Debug\net7.0\ApiPractice.Domain.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.csproj.AssemblyReference.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.AssemblyInfoInputs.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.AssemblyInfo.cs
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.csproj.CoreCompileInputs.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.csproj.CopyComplete
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\refint\ApiPractice.Service.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ApiPractice.Service.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Service\obj\Debug\net7.0\ref\ApiPractice.Service.dll

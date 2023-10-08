@@ -1,0 +1,17 @@
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\bin\Debug\net7.0\ApiPractice.Infrastructure.deps.json
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\bin\Debug\net7.0\ApiPractice.Infrastructure.runtimeconfig.json
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\bin\Debug\net7.0\ApiPractice.Infrastructure.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\bin\Debug\net7.0\ApiPractice.Infrastructure.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\bin\Debug\net7.0\ApiPractice.Domain.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\bin\Debug\net7.0\ApiPractice.Domain.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.csproj.AssemblyReference.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.AssemblyInfoInputs.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.AssemblyInfo.cs
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.csproj.CopyComplete
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\refint\ApiPractice.Infrastructure.dll
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.pdb
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ApiPractice.Infrastructure.genruntimeconfig.cache
+D:\FPT_SE\v\Web API Tutorial\WebApiPracticeV2\ApiPractice.Infrastructure\obj\Debug\net7.0\ref\ApiPractice.Infrastructure.dll
